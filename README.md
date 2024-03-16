@@ -1,1 +1,60 @@
-# guide
+# Bem vindo ao Guia de aprendizado Java, focado em backend e web
+### Totalmente em português para ajudar a comunidade br dos iniciantes na programação
+
+<p>Aqui nós vamos dar ênfase em vídeos do youtube mesmo, ou algum artigo e etc que vá ajudar as pessoas a entender de uma forma melhor cada conteúdo, teremos também alguns exercicios para práticar.</p>
+
+## Fundamentos Java
+
+| #   | Passo | Descrição |
+|-----|---|---|
+| 1   | **Fundamentos Java** |  |
+| 1.1 | [Sintaxe Básica (Basic Syntax)](https://www.youtube.com/watch?v=oChb2FdQUAw) | Introdução à sintaxe básica da linguagem Java, incluindo variáveis, tipos de dados, operadores e estruturas de controle. |
+| 1.2 | [Tipos de dados e Variáveis (DataTypes, Variables)](https://www.youtube.com/playlist?list=PLl_jnZykz8pTsfOk_gsAiIZL0JWDD1d20) | Detalhes sobre os tipos de dados primitivos e compostos em Java, como declarar e utilizar variáveis. |
+| 1.3 | [Condicionais (Conditionals)](https://www.youtube.com/watch?v=1oEsU9k1n0M) | Apresentação das estruturas condicionais `if`, `else` e `switch` em Java, com exemplos de uso. |
+| 1.4 | [Repetição (Looping)](https://www.youtube.com/playlist?list=PLl_jnZykz8pR91asTEOK8pYgZWE6aBOwn) | Introdução a estruturas de repetição como `for`, `while`, `do-while` |
+| 1.4 | [Funções (Functions)]() | Introdução aos metodos em java, como utiliza-los |
+| 1.5 | [Estrutura de Dados (DataStructures)]() | Introdução a estruturas de dados em java |
+| 1.6 | [Orientação a objetos, interfaces e classes (OOP, Interfaces, Classes)]() | Breve introdução a Classes, Interfaces e Orientação a objetos. (A partir daqui começarei a recomendar playlists, pois é um conteúdo mais aprofundado que precisa de um estudo maior para um bom entendimento) |
+| 1.7 | [Pacotes (Packages)]() | Introdução a funcionalidade organizacional de pacotes (Packages) em java |
+
+
+#Exercicios Java
+## Exercicios Fundamentos Java
+### 1. Calculadora Básica
+Crie uma calculadora que receba dois números e um operador, e retorne o resultado da operação. A calculadora deve suportar as operações de soma, subtração, multiplicação e divisão.
+
+### 2. Conversor de Temperatura
+Crie um programa que receba uma temperatura em Celsius e retorne a temperatura em Fahrenheit. A fórmula para conversão é: `F = C * 1.8 + 32`
+
+### 3. Verificador de Número Primo
+Crie um programa que receba um número e retorne se ele é primo ou não. Um número primo é aquele que é divisível apenas por 1 e por ele mesmo.
+
+### 4. Fatorial
+Crie um programa que receba um número e retorne o fatorial dele. O fatorial de um número é o produto de todos os números inteiros de 1 até o próprio número.
+
+### 5. Fibonacci
+Crie um programa que receba um número e retorne o n-ésimo termo da sequência de Fibonacci. A sequência de Fibonacci é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois anteriores.
+
+### 6. Verificador de Palíndromo
+Crie um programa que receba uma palavra e retorne se ela é um palíndromo ou não. Um palíndromo é uma palavra que se lê da mesma forma de trás para frente.
+
+### 7. Verificador de Ano Bissexto
+Crie um programa que receba um ano e retorne se ele é bissexto ou não. Um ano é bissexto se ele for divisível por 4, exceto os anos que são múltiplos de 100 mas não são múltiplos de 400.
+
+### 8. Calculadora de IMC
+Crie um programa que receba o peso e a altura de uma pessoa, e retorne o Índice de Massa Corporal (IMC) dela. O IMC é uma medida internacional usada para calcular se uma pessoa está no peso ideal.
+
+### 9. Calculadora de Juros Compostos
+Crie um programa que receba o valor inicial, a taxa de juros e o tempo de aplicação, e retorne o montante final. A fórmula para cálculo de juros compostos é: `M = P * (1 + i)^n`
+
+### 10. Verificador de Número Perfeito
+Crie um programa que receba um número e retorne se ele é um número perfeito ou não. Um número perfeito é um número inteiro para o qual a soma de todos os seus divisores positivos próprios (excluindo ele mesmo) é igual ao próprio número.
+
+### Esses exercicios podem ser criados usando os fundamentos de java, e podem ser feitos em qualquer IDE, mas recomendo o uso do Intellij, pois é uma IDE fácil e bastante prática de se usar.
+
+## Alguns exercicios legais de se criar
+
+### 1. Batalha Ninja
+1. Crie uma classe Chamada Ninja, que tenha os atributos: Nome, Vida, Ataque, Defesa, Jutsu.
+2. Crie uma classe chamada Jutsu que tem um atributo chamado Nome, e outro chamado Dano. Crie um método chamado Usar, que receba um ninja e aplique o dano do jutsu nele.
+3. Crie uma classe chamada Batalha, que tenha um método chamado IniciarBatalha, que receba dois ninjas e tenha um laço de repetição que faça os ninjas se atacarem até que um deles morra.
