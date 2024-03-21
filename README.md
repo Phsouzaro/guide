@@ -51,7 +51,53 @@ Crie um programa que receba um número e retorne se ele é um número perfeito o
 
 ## Alguns exercicios legais de se criar
 
-### 1. Batalha Ninja
-1. Crie uma classe Chamada Ninja, que tenha os atributos: Nome, Vida, Ataque, Defesa, Jutsu.
-2. Crie uma classe chamada Jutsu que tem um atributo chamado Nome, e outro chamado Dano. Crie um método chamado Usar, que receba um ninja e aplique o dano do jutsu nele.
-3. Crie uma classe chamada Batalha, que tenha um método chamado IniciarBatalha, que receba dois ninjas e tenha um laço de repetição que faça os ninjas se atacarem até que um deles morra.
+### 1. [Calculadora](https://github.com/phsouzaro/guide/blob/master/calculadora.md)
+Testes a serem executados:
+- deveSomarCorretamenteQuandoOsValoresForemInteiros
+- deveDividirCorretamenteQuandoNumerosForemInteiros
+- deveMultiplicarCorretamenteQuandoNumerosForemInteiros
+- deveDividirCorretamenteQuandoNumerosPossuemPontosFlutuantes
+
+
+### 2. [Dicionario](https://github.com/phsouzaro/guide/blob/master/dicionario.md)
+Testes a serem executados:
+- deveAdicionarPalavraCorretamente
+- deveRetornarSignificadoCorretamente
+- deveRetornarTodasAsPalavrasCorretamente
+- deveRetornarTodasAsPalavrasEmOrdemAlfabeticaCorretamente
+
+### 3. [Batalha Ninja](https://github.com/phsouzaro/guide/blob/master/batalha_ninja.md)
+Testes a serem executados:
+- deveRetornarNinjaComJutsuMaisForteSeOsDoisGastamOMesmoChakraParaAtacar
+- deveAtualizarOChakraDoOponenteDeAcordoComODanoDoJutsoQuandoAtacar
+- deveRetornarPrimeiroNinjaComoVencedorQuandoONomeForItachi
+- deveRetornarSegundoNinjaComoVencedorQuandoONomeForItachi
+- deveRetornarNinjaComMaiorChakraAoFinalDaLuta
+- deveRetornarPrimeiroNinjaComoVencedorSeHouverEmpate
+
+### 4. [Exploração Espacial](https://github.com/phsouzaro/guide/blob/master/exploracao_espacial.md)
+Testes a serem executados:
+- deveFicarADerivaQuandoFaltarCombustivelParaIrAteUmPlaneta
+- deveTerValorTotalZeradoQuandoNaoExistirNenhumRecurso
+- deveTerValorTotalQuandoExistirRecursosNoPlaneta
+- deveTerValorPorPesoZeradoQuandoNaoExistirNenhumRecurso
+- deveTerValorPorPesoQuandoExistirRecursosNoPlaneta
+
+
+### 5. [Mercado da Bola](https://github.com/phsouzaro/guide/blob/master/mercado_da_bola.md)
+Testes a serem executados:
+- deveSerPossivelNegociarUmGoleiroComUmClubeQueTemSaldoEmCaixa
+- naoDeveSerPossivelNegociarUmAtacanteComUmClubeQueTemReputacaoHistoricaMenorQueASua
+- naoDeveSerPossivelNegociarPorFaltaDeCaixaDisponivel
+- deveCalcularCorretamenteOPrecoDoMeioCampoComMenosDeTrintaAnos
+- deveCalcularCorretamenteOPrecoDoMeioCampoComMaisDeTrintaAnos
+
+
+### 6. [Jogo de RPG - Senhor dos Aneis](https://github.com/phsouzaro/guide/blob/master/senhor_dos_aneis.md)
+Testes a serem executados:
+- deveVencerSociedadeQuandoAragornELegolasBatalharemContraOrcEGoblim
+- deveLancarSauronDominaOMundoExceptionQuandoInimigosDerrotaremMembrosDaSociedade
+- deveVencerSociedadeQuandoGandalfBatalharSozinhoContraSaruman
+- deveLancarSauronDominaOMundoExceptionQuandoLegolasBatalharSozinhoContraOrcEUrukhai
+- deveLancarSauronDominaOMundoExceptionQuandoBoromirBatalharSozinhoContraUrukhai
+
