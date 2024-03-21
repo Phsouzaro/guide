@@ -59,7 +59,7 @@ Testes a serem executados:
 - deveDividirCorretamenteQuandoNumerosPossuemPontosFlutuantes
 
 
-### 2. [Dicionario](https://github.com/phsouzaro/guide/blob/master/dicionario.md)
+### 2. [Dicionario](https://github.com/phsouzaro/guide/blob/master/Dicionario.md)
 Testes a serem executados:
 - deveAdicionarPalavraCorretamente
 - deveRetornarSignificadoCorretamente
