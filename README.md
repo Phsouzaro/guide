@@ -5,17 +5,14 @@
 
 ## Fundamentos Java
 
-| #   | Passo | Descrição |
-|-----|---|---|
-| 1   | **Fundamentos Java** |  |
-| 1.1 | [Sintaxe Básica (Basic Syntax)](https://www.youtube.com/watch?v=oChb2FdQUAw) | Introdução à sintaxe básica da linguagem Java, incluindo variáveis, tipos de dados, operadores e estruturas de controle. |
+| #   | Passo                                                                                                                         | Descrição |
+|-----|-------------------------------------------------------------------------------------------------------------------------------|---|
+| 1   | **Fundamentos Java**                                                                                                          |  |
+| 1.1 | [Sintaxe Básica (Basic Syntax)](https://www.youtube.com/watch?v=oChb2FdQUAw)                                                  | Introdução à sintaxe básica da linguagem Java, incluindo variáveis, tipos de dados, operadores e estruturas de controle. |
 | 1.2 | [Tipos de dados e Variáveis (DataTypes, Variables)](https://www.youtube.com/playlist?list=PLl_jnZykz8pTsfOk_gsAiIZL0JWDD1d20) | Detalhes sobre os tipos de dados primitivos e compostos em Java, como declarar e utilizar variáveis. |
-| 1.3 | [Condicionais (Conditionals)](https://www.youtube.com/watch?v=1oEsU9k1n0M) | Apresentação das estruturas condicionais `if`, `else` e `switch` em Java, com exemplos de uso. |
-| 1.4 | [Repetição (Looping)](https://www.youtube.com/playlist?list=PLl_jnZykz8pR91asTEOK8pYgZWE6aBOwn) | Introdução a estruturas de repetição como `for`, `while`, `do-while` |
-| 1.4 | [Funções (Functions)]() | Introdução aos metodos em java, como utiliza-los |
-| 1.5 | [Estrutura de Dados (DataStructures)]() | Introdução a estruturas de dados em java |
-| 1.6 | [Orientação a objetos, interfaces e classes (OOP, Interfaces, Classes)]() | Breve introdução a Classes, Interfaces e Orientação a objetos. (A partir daqui começarei a recomendar playlists, pois é um conteúdo mais aprofundado que precisa de um estudo maior para um bom entendimento) |
-| 1.7 | [Pacotes (Packages)]() | Introdução a funcionalidade organizacional de pacotes (Packages) em java |
+| 1.3 | [Condicionais (Conditionals)](https://www.youtube.com/watch?v=1oEsU9k1n0M)                                                    | Apresentação das estruturas condicionais `if`, `else` e `switch` em Java, com exemplos de uso. |
+| 1.4 | [Repetição (Looping)](https://www.youtube.com/playlist?list=PLl_jnZykz8pR91asTEOK8pYgZWE6aBOwn)                               | Introdução a estruturas de repetição como `for`, `while`, `do-while` |
+| 1.5 | [OOP - Classes, Metodos, Interfaces, Classe abstrata e conceitos de Orientacao a Objeto](https://www.youtube.com/playlist?list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y)                                    | Introdução aos metodos em java, como utiliza-los |
 
 
 #Exercicios Java
