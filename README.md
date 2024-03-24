@@ -1,8 +1,4 @@
-# Bem vindo ao Guia de aprendizado Java, focado em backend e web
-### Totalmente em português para ajudar a comunidade br dos iniciantes na programação
-
-<p>Aqui nós vamos dar ênfase em vídeos do youtube mesmo, ou algum artigo e etc que vá ajudar as pessoas a entender de uma forma melhor cada conteúdo, teremos também alguns exercicios para práticar.</p>
-
+#Guia de Aprendizado Java, voltado para backend e web.
 ## Fundamentos Java
 
 | #   | Passo                                                                                                                         | Descrição |
